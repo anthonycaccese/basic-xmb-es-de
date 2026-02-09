@@ -1,8 +1,5 @@
 <theme>
 
-	<include>./_inc/systems/metadata-global/_default.xml</include>
-	<include>./_inc/systems/metadata-global/${system.theme}.xml</include>
-
 	<variables>
 		<fontMedium>./_inc/fonts/newrodinpro.ttf</fontMedium>
 		<langLabelTotalGames>Total Games</langLabelTotalGames>
@@ -136,18 +133,6 @@
             <zIndex>2</zIndex>
          </image>
          </view>
-         <view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
-         </view>
 	</variant>
 	
 	<variant name="bg-lastplayed-waves-marquee">
@@ -174,18 +159,6 @@
             <gameselector>system-art-selector</gameselector>
             <zIndex>2</zIndex>
          </image>
-         </view>
-         <view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
          </view>
 	</variant>
 	
@@ -215,34 +188,6 @@
             <zIndex>2</zIndex>
          </image>
          </view>
-         <view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
-         </view>
-	</variant>
-	
-	<variant name="bg-waves-cover">
-		<view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<fadeInType>transparent</fadeInType>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
-         </view>
 	</variant>
 	
 	<variant name="bg-waves-marquee">
@@ -256,18 +201,6 @@
 		<image name="marquee">
 			<visible>false</visible>
 		</image>
-         </view>
-		<view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
          </view>
 	</variant>
 	
@@ -283,18 +216,6 @@
 		<image name="line,lineshadow">
 			<visible>false</visible>
 		</image>
-         </view>
-		<view name="system,gamelist">
-		<video name="waves">
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<cropSize>1 1</cropSize>
-			<path>./_inc/waves/waves.mp4</path>
-			<stationary>always</stationary>
-			<fadeInTime>0</fadeInTime>
-			<color>${fade2}</color>
-			<zIndex>1.9</zIndex>
-         </video>
          </view>
 	</variant>
 	

@@ -93,12 +93,23 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <letterCase>capitalize</letterCase>
          <iconColor>${iconColor}</iconColor>
          <textColor>${textColor}</textColor>
-         <customButtonIcon button="button_a_PS">./_inc/images/help-button-a-PS.svg</customButtonIcon>
          <customButtonIcon button="button_a_XBOX">./_inc/images/help-button-a-XBOX.svg</customButtonIcon>
+         <customButtonIcon button="button_a_PS">./_inc/images/help-button-a-PS.svg</customButtonIcon>
+         <customButtonIcon button="button_a_SNES">./_inc/images/help-button-a-SNES.svg</customButtonIcon>
+         <customButtonIcon button="button_a_switch">./_inc/images/help-button-a-switch.svg</customButtonIcon>
+         <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-b-XBOX.svg</customButtonIcon>
+         <customButtonIcon button="button_b_PS">./_inc/images/help-button-b-PS.svg</customButtonIcon>
+         <customButtonIcon button="button_b_SNES">./_inc/images/help-button-b-SNES.svg</customButtonIcon>
+         <customButtonIcon button="button_b_switch">./_inc/images/help-button-b-switch.svg</customButtonIcon>
+         <customButtonIcon button="button_x_XBOX">./_inc/images/help-button-x-XBOX.svg</customButtonIcon>
+         <customButtonIcon button="button_x_PS">./_inc/images/help-button-x-PS.svg</customButtonIcon>
+         <customButtonIcon button="button_x_SNES">./_inc/images/help-button-x-SNES.svg</customButtonIcon>
+         <customButtonIcon button="button_x_switch">./_inc/images/help-button-x-switch.svg</customButtonIcon>
          <customButtonIcon button="button_start_PS123">./_inc/images/help-button-start-PS123.svg</customButtonIcon>
          <customButtonIcon button="button_start_XBOX">./_inc/images/help-button-start-XBOX.svg</customButtonIcon>
-         <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-b-XBOX.svg</customButtonIcon>
-         <customButtonIcon button="button_x_XBOX">./_inc/images/help-button-x-XBOX.svg</customButtonIcon>
+         <customButtonIcon button="button_start_PS5">./_inc/images/help-button-start-PS5.svg</customButtonIcon>
+         <customButtonIcon button="button_start_switch">./_inc/images/help-button-start-switch.svg</customButtonIcon>
+         <customButtonIcon button="button_start_XBOX360">./_inc/images/help-button-start-XBOX360.svg</customButtonIcon>
          <scope>view</scope>
       </helpsystem>
       <helpsystem name="help-left">
@@ -288,25 +299,25 @@ https://github.com/anthonycaccese/basic-xmb-es-de
    ///
    -->
    <aspectRatio name="16:9">
-      <include>./16-9.xml</include>
+      <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
    <aspectRatio name="16:10">
-      <include>./16-10.xml</include>
+      <include>./aspect-ratio-16-10.xml</include>
    </aspectRatio>
    <aspectRatio name="4:3">
-      <include>./4-3.xml</include>
+      <include>./aspect-ratio-4-3.xml</include>
    </aspectRatio>
    <aspectRatio name="3:2">
-      <include>./3-2.xml</include>
+      <include>./aspect-ratio-3-2.xml</include>
    </aspectRatio>
    <aspectRatio name="1:1">
-      <include>./1-1.xml</include>
+      <include>./aspect-ratio-1-1.xml</include>
    </aspectRatio>
    <aspectRatio name="8:7">
-      <include>./8-7.xml</include>
+      <include>./aspect-ratio-8-7.xml</include>
    </aspectRatio>
    <aspectRatio name="20:9">
-      <include>./20-9.xml</include>
+      <include>./aspect-ratio-20-9.xml</include>
    </aspectRatio>
 
    <!--

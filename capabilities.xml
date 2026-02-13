@@ -45,14 +45,6 @@
       <label>Pink (Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="baby-pink-video">
-      <label>Baby Pink (Video Background)</label>
-      <selectable>true</selectable>
-   </colorScheme>
-   <colorScheme name="hot-pink-video">
-      <label>Hot Pink (Video Background)</label>
-      <selectable>true</selectable>
-   </colorScheme>
    <colorScheme name="red-video">
       <label>Red (Video Background)</label>
       <selectable>true</selectable>
@@ -65,16 +57,12 @@
       <label>Yellow (Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="lime-green-video">
-      <label>Lime Green (Video Background)</label>
+   <colorScheme name="green-video">
+      <label>Green (Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="mint-green-video">
-      <label>Mint Green (Video Background)</label>
-      <selectable>true</selectable>
-   </colorScheme>
-   <colorScheme name="light-gray-video">
-      <label>Light Gray (Video Background)</label>
+   <colorScheme name="gray-video">
+      <label>Gray (Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="blue">
@@ -93,14 +81,6 @@
       <label>Pink</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="baby-pink">
-      <label>Baby Pink</label>
-      <selectable>true</selectable>
-   </colorScheme>
-   <colorScheme name="hot-pink">
-      <label>Hot Pink</label>
-      <selectable>true</selectable>
-   </colorScheme>
    <colorScheme name="red">
       <label>Red</label>
       <selectable>true</selectable>
@@ -113,16 +93,12 @@
       <label>Yellow</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="lime-green">
-      <label>Lime Green</label>
+   <colorScheme name="green">
+      <label>Green</label>
       <selectable>true</selectable>
    </colorScheme>
-   <colorScheme name="mint-green">
-      <label>Mint Green</label>
-      <selectable>true</selectable>
-   </colorScheme>
-   <colorScheme name="light-gray">
-      <label>Light Gray</label>
+   <colorScheme name="gray">
+      <label>Gray</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="custom">

@@ -207,7 +207,6 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <delay>2</delay>
          <fadeInType>transparent</fadeInType>
          <fadeInTime>0.3</fadeInTime>
-         <iterationCount>1</iterationCount>
          <videoCornerRadius>0.005</videoCornerRadius>
          <zIndex>50</zIndex>
       </video>

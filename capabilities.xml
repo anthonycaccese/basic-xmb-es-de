@@ -61,6 +61,10 @@
       <label>Green (Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
+   <colorScheme name="duotone-video">
+      <label>Duotone (Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
    <colorScheme name="gray-video">
       <label>Gray (Video Background)</label>
       <selectable>true</selectable>
@@ -95,6 +99,10 @@
    </colorScheme>
    <colorScheme name="green">
       <label>Green</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="duotone">
+      <label>Duotone</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="gray">

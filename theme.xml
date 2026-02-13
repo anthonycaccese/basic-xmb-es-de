@@ -126,7 +126,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
       <image name="metadata-line">
          <origin>0 0.5</origin>
          <path>${spacerImage}</path>
-         <color>${lineColor}</color>
+         <color>${lineColor}aa</color>
          <metadataElement>true</metadataElement>
          <zIndex>5</zIndex>
       </image>
@@ -215,6 +215,13 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <videoCornerRadius>0.005</videoCornerRadius>
          <zIndex>50</zIndex>
       </video>
+      <text name="system-name">
+         <origin>0 1</origin>
+         <metadata>sourceSystemFullname</metadata>
+         <fontPath>${fontLight}</fontPath>
+         <color>${textColor}aa</color>
+         <metadataElement>true</metadataElement>
+      </text>
       <text name="game-name">
          <origin>0 1</origin>
          <metadata>name</metadata>

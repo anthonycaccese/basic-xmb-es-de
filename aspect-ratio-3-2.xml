@@ -126,11 +126,19 @@ based on 1620x1080
          <pos>0.225 0.5</pos>
          <cropSize>0.28 0.33</cropSize> 
       </video>
+      <text name="system-name">
+         <pos>0.39 0.4</pos>
+         <size>0.56 0</size>
+         <fontSize>0.025</fontSize>
+         <lineSpacing>1.2</lineSpacing>
+      </text>
       <text name="game-name">
          <pos>0.39 0.475</pos>
-         <size>0.56 0</size>
+         <size>0.56 0.059</size>
          <fontSize>0.05</fontSize><!-- 54 -->
          <lineSpacing>1.2</lineSpacing>
+         <container>true</container>
+         <containerType>horizontal</containerType>
       </text>
       <badges name="game-badges">
          <pos>0.95 0.5</pos>

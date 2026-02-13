@@ -1,0 +1,27 @@
+<theme>
+   <colorScheme name="custom">
+      <variables>
+         <!-- Color Settings -->
+         <iconColor>ffffff</iconColor>
+         <textColor>ffffff</textColor>
+         <lineColor>ffffff</lineColor>
+         <!-- Static Background Settings -->
+         <backgroundImagePath>./_inc/backgrounds/waves.png</backgroundImagePath>
+         <backgroundVideoPath>./_inc/backgrounds/waves.mp4</backgroundVideoPath>
+         <backgroundImageTile>false</backgroundImageTile>
+         <backgroundColor>007096</backgroundColor>
+         <backgroundColorEnd>D800AD</backgroundColorEnd>
+         <backgroundGradientType>vertical</backgroundGradientType>
+         <backgroundSaturation>1</backgroundSaturation>
+         <!-- Game Art Background Settings -->
+         <backgroundGameArtType>fanart</backgroundGameArtType>
+         <backgroundGameArtSelector>lastplayed</backgroundGameArtSelector>
+         <backgroundGameArtColor>555555</backgroundGameArtColor>
+         <backgroundGameArtSaturation>1</backgroundGameArtSaturation>
+         <!-- Background Display Settings -->
+         <showBackgroundGameArtSystemView>false</showBackgroundVideo>
+         <showBackgroundGameArtSystemView>false</showBackgroundGameArtSystemView>
+         <showBackgroundGameArtGamelistView>false</showBackgroundGameArtGamelistView>
+      </variables>
+   </colorScheme>
+</theme>

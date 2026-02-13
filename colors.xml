@@ -96,7 +96,7 @@
       ">
       <variables>
          <backgroundImage>./_inc/backgrounds/waves-violet.png</backgroundImage>
-         <backgroundVideo>./_inc/backgrounds/waves-violet.mp4</backgroundVideo>
+         <backgroundVideo>./_inc/backgrounds/waves-violet-loop.mp4</backgroundVideo>
       </variables>
    </colorScheme>
    <colorScheme name="
@@ -105,7 +105,7 @@
       ">
       <variables>
          <backgroundImage>./_inc/backgrounds/waves-light-gray.png</backgroundImage>
-         <backgroundVideo>./_inc/backgrounds/waves-light-gray.mp4</backgroundVideo>
+         <backgroundVideo>./_inc/backgrounds/waves-light-gray-loop.mp4</backgroundVideo>
       </variables>
    </colorScheme>
    <colorScheme name="

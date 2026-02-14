@@ -128,13 +128,13 @@ based on 2400x1080
       </video>
       <text name="system-name">
          <pos>0.39 0.4</pos>
-         <size>0.56 0</size>
+         <size>0.61 0</size>
          <fontSize>0.025</fontSize>
          <lineSpacing>1.2</lineSpacing>
       </text>
       <text name="game-name">
          <pos>0.39 0.475</pos>
-         <size>0.56 0.059</size>
+         <size>0.61 0.059</size>
          <fontSize>0.05</fontSize><!-- 54 -->
          <lineSpacing>1.2</lineSpacing>
          <container>true</container>
@@ -144,21 +144,21 @@ based on 2400x1080
          <pos>0.95 0.5</pos>
          <size>1 0.06</size>
       </badges>
-      <image name="game-players-icon">
+      <image name="game-playtime-icon">
          <pos>0.39 0.525</pos>
          <size>0.0183333 0.0407407</size><!-- 44 44 -->
       </image>
-      <text name="game-players">
+      <text name="game-playtime">
          <pos>0.415 0.525</pos>
          <fontSize>0.0333333</fontSize><!-- 36 -->
          <size>0 0.0333333</size><!-- 0 36 -->
          <lineSpacing>1.2</lineSpacing>
       </text>
-      <image name="game-playtime-icon">
+      <image name="game-players-icon">
          <pos>0.39 0.575</pos>
          <size>0.0183333 0.0407407</size><!-- 44 44 -->
       </image>
-      <text name="game-playtime">
+      <text name="game-players">
          <pos>0.415 0.575</pos>
          <fontSize>0.0333333</fontSize><!-- 36 -->
          <size>0 0.0333333</size><!-- 0 36 -->

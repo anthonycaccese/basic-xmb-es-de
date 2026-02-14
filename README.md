@@ -71,7 +71,7 @@ A custom color scheme lets you to modify any of the colors and backgrounds used 
     
 4) Set the `Theme Color Scheme` in ES-DE's UI Settings menu to `Custom` and you should see your custom color scheme display.  If you see an error check that the paths discussed above are correct and then check that the values you added for each property are correct and well formatted.
 
-## **Credits:**
+## **Credits**
 
 - Inspired by the design of the Cross Media bar by Sony for the PSP &amp; PS3
 - The orignal XML for this theme was created by InitialDin

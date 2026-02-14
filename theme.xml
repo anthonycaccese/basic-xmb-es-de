@@ -318,7 +318,6 @@ https://github.com/anthonycaccese/basic-xmb-es-de
             <imageType>marquee</imageType>
             <color>${backgroundMarqueeColor}</color>
             <metadataElement>true</metadataElement>
-            <scrollFadeIn>true</scrollFadeIn>
             <zIndex>50</zIndex>
          </image>
       </view>

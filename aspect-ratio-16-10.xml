@@ -171,5 +171,13 @@ based on 1728x1080
          <entries>a,x</entries>
       </helpsystem>
    </view>
+   <variant name="gamelist-carousel-cover-marquee,gamelist-carousel-titlescreen-marquee,gamelist-carousel-physicalmedia-marquee">
+      <view name="gamelist">
+         <image name="gamelist-marquee">
+            <pos>0.9421296 0.9074074</pos><!-- 100 100 -->
+            <maxSize>0.3472222 0.370</maxSize><!-- 600 400 -->
+         </image>
+      </view>
+   </variant>
 
 </theme>

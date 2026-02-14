@@ -162,6 +162,7 @@
          <backgroundGameArtType>fanart</backgroundGameArtType>
          <backgroundGameArtSelector>lastplayed</backgroundGameArtSelector>
          <backgroundGameArtColor>555555</backgroundGameArtColor>
+         <backgroundMarqueeColor>777777</backgroundMarqueeColor>
          <backgroundGameArtSaturation>1</backgroundGameArtSaturation>
       </variables>
    </colorScheme>

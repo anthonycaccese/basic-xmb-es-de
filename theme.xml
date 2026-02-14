@@ -275,7 +275,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <zIndex>50</zIndex>
       </text>
    </view>
-   <variant name="gamelist-carousel-cover">
+   <variant name="gamelist-carousel-cover,gamelist-carousel-cover-marquee">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>cover</imageType>
@@ -289,18 +289,30 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          </carousel>
       </view>
    </variant>
-   <variant name="gamelist-carousel-titlescreen">
+   <variant name="gamelist-carousel-titlescreen,gamelist-carousel-titlescreen-marquee">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>titlescreen</imageType>
          </carousel>
       </view>
    </variant>
-   <variant name="gamelist-carousel-physicalmedia">
+   <variant name="gamelist-carousel-physicalmedia,gamelist-carousel-physicalmedia-marquee">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>physicalmedia</imageType>
          </carousel>
+      </view>
+   </variant>
+   <variant name="gamelist-carousel-cover-marquee,gamelist-carousel-titlescreen-marquee,gamelist-carousel-physicalmedia-marquee">
+      <view name="gamelist">
+         <image name="gamelist-marquee">
+            <origin>1 1</origin>
+            <imageType>marquee</imageType>
+            <color>${backgroundMarqueeColor}</color>
+            <metadataElement>true</metadataElement>
+            <scrollFadeIn>true</scrollFadeIn>
+            <zIndex>50</zIndex>
+         </image>
       </view>
    </variant>
 

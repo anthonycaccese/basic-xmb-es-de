@@ -144,16 +144,28 @@
       <label>Carousel: Boxart</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="gamelist-carousel-marquee">
-      <label>Carousel: Marquee</label>
+   <variant name="gamelist-carousel-cover-marquee">
+      <label>Carousel: Boxart + Marquee</label>
       <selectable>true</selectable>
    </variant>
    <variant name="gamelist-carousel-titlescreen">
       <label>Carousel: Title Screen</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="gamelist-carousel-titlescreen-marquee">
+      <label>Carousel: Title Screen + Marquee</label>
+      <selectable>true</selectable>
+   </variant>
    <variant name="gamelist-carousel-physicalmedia">
       <label>Carousel: Physical Media</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="gamelist-carousel-physicalmedia-marquee">
+      <label>Carousel: Physical Media + Marquee</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="gamelist-carousel-marquee">
+      <label>Carousel: Marquee</label>
       <selectable>true</selectable>
    </variant>
     

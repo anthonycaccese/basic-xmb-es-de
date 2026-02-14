@@ -71,6 +71,42 @@ A custom color scheme lets you to modify any of the colors and backgrounds used 
     
 4) Set the `Theme Color Scheme` in ES-DE's UI Settings menu to `Custom` and you should see your custom color scheme display.  If you see an error check that the paths discussed above are correct and then check that the values you added for each property are correct and well formatted.
 
+### **Example**
+
+Here is a preview of what is possible through customizations along with the XML that was written for it.  Note: the custom.xml below only contains properties that were changed. When creating a custom.xml you only need to provide the properties you actually change.
+
+<table>
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/6cdc5f94-d185-490b-a414-16e27c23ba79" /></td>
+      <td><img src="https://github.com/user-attachments/assets/572e2325-f851-49d4-ae61-2119be7699a3" /></td>
+   </tr>
+</table>
+
+```xml
+<theme>
+   <colorScheme name="custom">
+      <variables>
+         <!-- Color Settings -->
+         <iconColor>111111</iconColor>
+         <textColor>111111</textColor>
+         <lineColor>11111133</lineColor>
+         <!-- System Image Settings -->
+         <systemCarouselImagePath>./theme-customizations/20th-anniversary/controllers</systemCarouselImagePath>
+         <systemCarouselImageColor>ffffff</systemCarouselImageColor>
+         <systemContentImageColor>777777</systemContentImageColor>
+         <!-- Static Background Settings -->
+         <backgroundImagePath>./theme-customizations/20th-anniversary/background.png</backgroundImagePath>
+         <backgroundColor>ffffff</backgroundColor>
+         <backgroundColorEnd>ffffff</backgroundColorEnd>
+         <!-- Background Display Settings -->
+         <showBackgroundVideo>false</showBackgroundVideo>
+         <showBackgroundGameArtSystemView>false</showBackgroundGameArtSystemView>
+         <showBackgroundGameArtGamelistView>false</showBackgroundGameArtGamelistView>
+      </variables>
+   </colorScheme>
+</theme>
+```
+
 ## **Credits**
 
 - Inspired by the design of the Cross Media bar by Sony for the PSP &amp; PS3

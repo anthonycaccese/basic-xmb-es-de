@@ -8,6 +8,14 @@ https://github.com/anthonycaccese/basic-xmb-es-de
 
    <!--
    ///
+   System Metadata
+   ///
+   -->
+   <include>./_inc/systems/_metadata-global/_default.xml</include>
+   <include>./_inc/systems/_metadata-global/${system.theme}.xml</include>
+
+   <!--
+   ///
    Variables
    ///
    -->

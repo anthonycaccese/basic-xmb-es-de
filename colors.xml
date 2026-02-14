@@ -154,6 +154,7 @@
          <iconColor>ffffff</iconColor>
          <textColor>ffffff</textColor>
          <lineColor>ffffffaa</lineColor>
+         <surfaceColor>111111</surfaceColor>
          <systemCarouselImagePath>./_inc/systems/controller</systemCarouselImagePath>
          <systemContentImagePath>./_inc/systems/physical-media</systemContentImagePath>
          <systemCarouselImageColor>ffffff</systemCarouselImageColor>

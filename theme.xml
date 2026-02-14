@@ -203,7 +203,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <defaultFolderImage>./_inc/images/default_game.png</defaultFolderImage>-->
          <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
          <textColor>${textColor}</textColor>
-         <textBackgroundColor>111111</textBackgroundColor>
+         <textBackgroundColor>${surfaceColor}</textBackgroundColor>
          <fontPath>${fontBold}</fontPath>
          <color>00000000</color>
          <fastScrolling>true</fastScrolling>

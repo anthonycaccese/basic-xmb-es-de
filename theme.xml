@@ -134,7 +134,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
       <image name="metadata-line">
          <origin>0 0.5</origin>
          <path>${spacerImage}</path>
-         <color>${lineColor}aa</color>
+         <color>${lineColor}</color>
          <metadataElement>true</metadataElement>
          <zIndex>5</zIndex>
       </image>
@@ -157,8 +157,8 @@ https://github.com/anthonycaccese/basic-xmb-es-de
       <carousel name="system-carousel">
          <origin>0 0</origin>
          <type>horizontal</type>
-         <defaultImage>./_inc/systems/controller/_default.png</defaultImage>
-         <staticImage>./_inc/systems/controller/${system.theme}.png</staticImage>
+         <defaultImage>${systemCarouselImagePath}/_default.png</defaultImage>
+         <staticImage>${systemCarouselImagePath}/${system.theme}.png</staticImage>
          <imageColor>${iconColor}</imageColor>
          <unfocusedItemOpacity>0.9</unfocusedItemOpacity>
          <fastScrolling>true</fastScrolling>
@@ -166,9 +166,10 @@ https://github.com/anthonycaccese/basic-xmb-es-de
       </carousel>
       <image name="system-content">
          <origin>0.5 0.5</origin>
-         <default>./_inc/systems/physical-media/_default.png</default>
-         <path>./_inc/systems/physical-media/${system.theme}.png</path>
+         <default>${systemContentImagePath}/_default.png</default>
+         <path>${systemContentImagePath}/${system.theme}.png</path>
          <color>${iconColor}</color>
+         <interpolation>linear</interpolation>
       </image>
       <text name="system-name">
          <origin>0 1</origin>
@@ -318,6 +319,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
             <imageType>marquee</imageType>
             <color>${backgroundMarqueeColor}</color>
             <metadataElement>true</metadataElement>
+            <interpolation>linear</interpolation>
             <zIndex>50</zIndex>
          </image>
       </view>

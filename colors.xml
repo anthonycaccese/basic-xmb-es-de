@@ -153,7 +153,9 @@
       <variables>
          <iconColor>ffffff</iconColor>
          <textColor>ffffff</textColor>
-         <lineColor>ffffff</lineColor>
+         <lineColor>ffffffaa</lineColor>
+         <systemCarouselImagePath>./_inc/systems/controller</systemCarouselImagePath>
+         <systemContentImagePath>./_inc/systems/physical-media</systemContentImagePath>
          <backgroundImagePath>./_inc/backgrounds/waves.png</backgroundImagePath>
          <backgroundVideoPath>./_inc/backgrounds/waves.mp4</backgroundVideoPath>
          <backgroundImageTile>false</backgroundImageTile>

@@ -111,17 +111,6 @@
       </variables>
    </colorScheme>
    <colorScheme name="
-      oled,
-      oled-video-ps3
-      ">
-      <variables>
-         <backgroundImagePath>./_inc/backgrounds/waves-ps3-oled.png</backgroundImagePath>
-         <backgroundVideoPath>./_inc/backgrounds/waves-ps3-oled.mp4</backgroundVideoPath>
-         <backgroundColor>ffffff</backgroundColor>
-         <backgroundColorEnd>000000</backgroundColorEnd>
-      </variables>
-   </colorScheme>
-   <colorScheme name="
       gray,
       gray-video,
       gray-video-ps3
@@ -295,6 +284,21 @@
          <backgroundGameArtColor>555555</backgroundGameArtColor>
          <backgroundMarqueeColor>777777</backgroundMarqueeColor>
          <backgroundGameArtSaturation>1</backgroundGameArtSaturation>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
+      oled,
+      oled-video-ps3
+      ">
+      <variables>
+         <iconColor>999999</iconColor>
+         <lineColor>777777</lineColor>
+         <backgroundImagePath>./_inc/backgrounds/waves-ps3-oled.png</backgroundImagePath>
+         <backgroundVideoPath>./_inc/backgrounds/waves-ps3-oled.mp4</backgroundVideoPath>
+         <systemCarouselImageColor>999999</systemCarouselImageColor>
+         <systemContentImageColor>999999</systemContentImageColor>
+         <backgroundColor>ffffff</backgroundColor>
+         <backgroundColorEnd>000000</backgroundColorEnd>
       </variables>
    </colorScheme>
    <colorScheme name="custom">

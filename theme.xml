@@ -57,6 +57,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <colorEnd>${backgroundColorEnd}</colorEnd>
          <gradientType>${backgroundGradientType}</gradientType>
          <saturation>${backgroundSaturation}</saturation>
+         <stationary>always</stationary>
          <zIndex>0</zIndex>
       </image>
       <video name="background-video">
@@ -136,6 +137,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <path>${spacerImage}</path>
          <color>${lineColor}</color>
          <metadataElement>true</metadataElement>
+         <stationary>always</stationary>
          <zIndex>5</zIndex>
       </image>
 	</view>
@@ -213,6 +215,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <path>./_inc/images/icon-arrow.svg</path>
          <color>${iconColor}</color>
          <metadataElement>true</metadataElement>
+         <stationary>withinView</stationary>
          <zIndex>50</zIndex>
       </image>
       <video name="game-video">

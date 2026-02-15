@@ -46,9 +46,9 @@ A custom color scheme lets you to modify any of the colors and backgrounds used 
 
 #### Instructions:
 
-1) In the resources folder you will find a template file called [colors.xml](https://github.com/anthonycaccese/xmb-menu-es-de/blob/main/resources/custom.xml)
+1) In the resources folder you will find a template file called [custom.xml](https://github.com/anthonycaccese/xmb-menu-es-de/blob/main/resources/custom.xml)
 
-2) Make a folder named in the XMB Menu folder called `theme-customizations` and place a copy of the `custom.xml` file inside that folder.  The folder structure should look like this when you are done:
+2) Place a copy of that file into the `theme-customizations` folder. The folder structure should look like this when you are done:
    ```
    /ES-DE/themes/xmb-menu-es-de/theme-customizations/custom.xml
    ```

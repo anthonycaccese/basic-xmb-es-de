@@ -10,4 +10,5 @@ ehthumbs.db
 Thumbs.db
 # Theme Customization #
 ######################$
-/theme-customizations
+/theme-customizations/*
+!/theme-customizations/.gitkeep

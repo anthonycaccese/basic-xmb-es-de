@@ -197,7 +197,8 @@
       duotone-video,
       turquoise-video,
       brown-video,
-      gray-video
+      gray-video,
+      custom
       ">
       <variables>
          <backgroundImagePath>./_inc/backgrounds/waves.png</backgroundImagePath>

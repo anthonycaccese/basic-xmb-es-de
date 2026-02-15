@@ -5,6 +5,7 @@
          <iconColor>ffffff</iconColor>
          <textColor>ffffff</textColor>
          <lineColor>ffffff</lineColor>
+         <surfaceColor>111111</surfaceColor>
          <!-- System Image Settings -->
          <systemCarouselImagePath>./_inc/systems/controller</systemCarouselImagePath>
          <systemCarouselImageColor>ffffff</systemCarouselImageColor>

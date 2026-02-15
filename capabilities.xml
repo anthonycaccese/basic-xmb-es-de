@@ -125,6 +125,10 @@
       <label>Gray (PS3 Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
+   <colorScheme name="oled-video-ps3">
+      <label>OLED (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
    <colorScheme name="blue">
       <label>Blue</label>
       <selectable>true</selectable>
@@ -171,6 +175,10 @@
    </colorScheme>
    <colorScheme name="gray">
       <label>Gray</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="oled">
+      <label>OLED</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="custom">

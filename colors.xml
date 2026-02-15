@@ -111,6 +111,17 @@
       </variables>
    </colorScheme>
    <colorScheme name="
+      oled,
+      oled-video-ps3
+      ">
+      <variables>
+         <backgroundImagePath>./_inc/backgrounds/waves-ps3-oled.png</backgroundImagePath>
+         <backgroundVideoPath>./_inc/backgrounds/waves-ps3-oled.mp4</backgroundVideoPath>
+         <backgroundColor>ffffff</backgroundColor>
+         <backgroundColorEnd>ffffff</backgroundColorEnd>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
       gray,
       gray-video,
       gray-video-ps3
@@ -132,6 +143,7 @@
       duotone,
       turquoise,
       brown,
+      oled,
       gray,
       custom
       ">
@@ -165,6 +177,7 @@
       duotone-video-ps3,
       turquoise-video-ps3,
       brown-video-ps3,
+      oled-video-ps3,
       gray-video-ps3
       ">
       <variables>
@@ -236,6 +249,7 @@
       duotone,
       turquoise,
       brown,
+      oled,
       gray,
       blue-video,
       green-video,
@@ -260,6 +274,7 @@
       duotone-video-ps3,
       turquoise-video-ps3,
       brown-video-ps3,
+      oled-video-ps3,
       gray-video-ps3,
       custom
       ">

@@ -2,6 +2,7 @@
    <colorScheme name="
       blue,
       blue-video,
+      blue-video-ps3,
       custom
       ">
       <variables>
@@ -11,7 +12,8 @@
    </colorScheme>
    <colorScheme name="
       green,
-      green-video
+      green-video,
+      green-video-ps3
       ">
       <variables>
          <backgroundColor>083700</backgroundColor>
@@ -20,7 +22,8 @@
    </colorScheme>
    <colorScheme name="
       orange,
-      orange-video
+      orange-video,
+      orange-video-ps3
       ">
       <variables>
          <backgroundColor>B33000</backgroundColor>
@@ -29,7 +32,8 @@
    </colorScheme>
    <colorScheme name="
       yellow,
-      yellow-video
+      yellow-video,
+      yellow-video-ps3
       ">
       <variables>
          <backgroundColor>FFB100</backgroundColor>
@@ -38,7 +42,8 @@
    </colorScheme>
    <colorScheme name="
       pink,
-      pink-video
+      pink-video,
+      pink-video-ps3
       ">
       <variables>
          <backgroundColor>FE2B67</backgroundColor>
@@ -47,7 +52,8 @@
    </colorScheme>
    <colorScheme name="
       red,
-      red-video
+      red-video,
+      red-video-ps3
       ">
       <variables>
          <backgroundColor>691713</backgroundColor>
@@ -56,7 +62,8 @@
    </colorScheme>
    <colorScheme name="
       lavender,
-      lavender-video
+      lavender-video,
+      lavender-video-ps3
       ">
       <variables>
          <backgroundColor>d4a0ff</backgroundColor>
@@ -65,7 +72,8 @@
    </colorScheme>
    <colorScheme name="
       violet,
-      violet-video
+      violet-video,
+      violet-video-ps3
       ">
       <variables>
          <backgroundColor>260062</backgroundColor>
@@ -74,7 +82,8 @@
    </colorScheme>
    <colorScheme name="
       duotone,
-      duotone-video
+      duotone-video,
+      duotone-video-ps3
       ">
       <variables>
          <backgroundColor>007096</backgroundColor>
@@ -82,8 +91,29 @@
       </variables>
    </colorScheme>
    <colorScheme name="
+      turquoise,
+      turquoise-video,
+      turquoise-video-ps3
+      ">
+      <variables>
+         <backgroundColor>95D2D3</backgroundColor>
+         <backgroundColorEnd>007271</backgroundColorEnd>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
+      brown,
+      brown-video,
+      brown-video-ps3
+      ">
+      <variables>
+         <backgroundColor>BD7844</backgroundColor>
+         <backgroundColorEnd>4F2E15</backgroundColorEnd>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
       gray,
-      gray-video
+      gray-video,
+      gray-video-ps3
       ">
       <variables>
          <backgroundColor>bbbbbb</backgroundColor>
@@ -100,6 +130,8 @@
       lavender,
       violet,
       duotone,
+      turquoise,
+      brown,
       gray,
       custom
       ">
@@ -119,7 +151,21 @@
       lavender-video,
       violet-video,
       duotone-video,
-      gray-video
+      turquoise-video,
+      brown-video,
+      gray-video,
+      blue-video-ps3,
+      green-video-ps3,
+      orange-video-ps3,
+      yellow-video-ps3,
+      pink-video-ps3,
+      red-video-ps3,
+      lavender-video-ps3,
+      violet-video-ps3,
+      duotone-video-ps3,
+      turquoise-video-ps3,
+      brown-video-ps3,
+      gray-video-ps3
       ">
       <variables>
          <showBackgroundVideo>true</showBackgroundVideo>
@@ -137,6 +183,8 @@
       lavender,
       violet,
       duotone,
+      turquoise,
+      brown,
       gray,
       blue-video,
       green-video,
@@ -147,7 +195,71 @@
       lavender-video,
       violet-video,
       duotone-video,
+      turquoise-video,
+      brown-video,
+      gray-video
+      ">
+      <variables>
+         <backgroundImagePath>./_inc/backgrounds/waves.png</backgroundImagePath>
+         <backgroundVideoPath>./_inc/backgrounds/waves.mp4</backgroundVideoPath>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
+      blue-video-ps3,
+      green-video-ps3,
+      orange-video-ps3,
+      yellow-video-ps3,
+      pink-video-ps3,
+      red-video-ps3,
+      lavender-video-ps3,
+      violet-video-ps3,
+      duotone-video-ps3,
+      turquoise-video-ps3,
+      brown-video-ps3,
+      gray-video-ps3
+      ">
+      <variables>
+         <backgroundImagePath>./_inc/backgrounds/waves-ps3.png</backgroundImagePath>
+         <backgroundVideoPath>./_inc/backgrounds/waves-ps3.mp4</backgroundVideoPath>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
+      blue,
+      green,
+      orange,
+      yellow,
+      pink,
+      red,
+      lavender,
+      violet,
+      duotone,
+      turquoise,
+      brown,
+      gray,
+      blue-video,
+      green-video,
+      orange-video,
+      yellow-video,
+      pink-video,
+      red-video,
+      lavender-video,
+      violet-video,
+      duotone-video,
+      turquoise-video,
+      brown-video,
       gray-video,
+      blue-video-ps3,
+      green-video-ps3,
+      orange-video-ps3,
+      yellow-video-ps3,
+      pink-video-ps3,
+      red-video-ps3,
+      lavender-video-ps3,
+      violet-video-ps3,
+      duotone-video-ps3,
+      turquoise-video-ps3,
+      brown-video-ps3,
+      gray-video-ps3,
       custom
       ">
       <variables>
@@ -159,8 +271,6 @@
          <systemContentImagePath>./_inc/systems/physical-media</systemContentImagePath>
          <systemCarouselImageColor>ffffff</systemCarouselImageColor>
          <systemContentImageColor>ffffff</systemContentImageColor>
-         <backgroundImagePath>./_inc/backgrounds/waves.png</backgroundImagePath>
-         <backgroundVideoPath>./_inc/backgrounds/waves.mp4</backgroundVideoPath>
          <backgroundImageTile>false</backgroundImageTile>
          <backgroundGradientType>vertical</backgroundGradientType>
          <backgroundSaturation>1</backgroundSaturation>

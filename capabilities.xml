@@ -30,43 +30,99 @@
    ///
    -->
    <colorScheme name="blue-video">
-      <label>Blue (Video Background)</label>
+      <label>Blue (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="violet-video">
-      <label>Violet (Video Background)</label>
+      <label>Violet (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="lavender-video">
-      <label>Lavender (Video Background)</label>
+      <label>Lavender (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="pink-video">
-      <label>Pink (Video Background)</label>
+      <label>Pink (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="red-video">
-      <label>Red (Video Background)</label>
+      <label>Red (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="orange-video">
-      <label>Orange (Video Background)</label>
+      <label>Orange (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="yellow-video">
-      <label>Yellow (Video Background)</label>
+      <label>Yellow (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="green-video">
-      <label>Green (Video Background)</label>
+      <label>Green (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="duotone-video">
-      <label>Duotone (Video Background)</label>
+      <label>Duotone (PSP Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="turquoise-video">
+      <label>Turquoise (PSP Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="brown-video">
+      <label>Brown (PSP Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="gray-video">
-      <label>Gray (Video Background)</label>
+      <label>Gray (PSP Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="blue-video-ps3">
+      <label>Blue (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="violet-video-ps3">
+      <label>Violet (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="lavender-video-ps3">
+      <label>Lavender (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="pink-video-ps3">
+      <label>Pink (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="red-video-ps3">
+      <label>Red (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="orange-video-ps3">
+      <label>Orange (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="yellow-video-ps3">
+      <label>Yellow (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="green-video-ps3">
+      <label>Green (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="duotone-video-ps3">
+      <label>Duotone (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="turquoise-video-ps3">
+      <label>Turquoise (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="brown-video-ps3">
+      <label>Brown (PS3 Video Background)</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="gray-video-ps3">
+      <label>Gray (PS3 Video Background)</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="blue">
@@ -103,6 +159,14 @@
    </colorScheme>
    <colorScheme name="duotone">
       <label>Duotone</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="turquoise">
+      <label>Turquoise</label>
+      <selectable>true</selectable>
+   </colorScheme>
+   <colorScheme name="brown">
+      <label>Brown</label>
       <selectable>true</selectable>
    </colorScheme>
    <colorScheme name="gray">

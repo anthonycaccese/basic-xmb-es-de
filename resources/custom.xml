@@ -25,7 +25,7 @@
          <backgroundMarqueeColor>777777</backgroundMarqueeColor>
          <backgroundGameArtSaturation>1</backgroundGameArtSaturation>
          <!-- Background Display Settings -->
-         <showBackgroundGameArtSystemView>false</showBackgroundVideo>
+         <showBackgroundVideo>false</showBackgroundVideo>
          <showBackgroundGameArtSystemView>false</showBackgroundGameArtSystemView>
          <showBackgroundGameArtGamelistView>false</showBackgroundGameArtGamelistView>
       </variables>

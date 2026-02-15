@@ -117,8 +117,8 @@
       <variables>
          <backgroundImagePath>./_inc/backgrounds/waves-ps3-oled.png</backgroundImagePath>
          <backgroundVideoPath>./_inc/backgrounds/waves-ps3-oled.mp4</backgroundVideoPath>
-         <backgroundColor>ffffff</backgroundColor>
-         <backgroundColorEnd>ffffff</backgroundColorEnd>
+         <backgroundColor>000000</backgroundColor>
+         <backgroundColorEnd>000000</backgroundColorEnd>
       </variables>
    </colorScheme>
    <colorScheme name="

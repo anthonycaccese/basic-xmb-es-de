@@ -287,7 +287,7 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          <zIndex>50</zIndex>
       </text>
    </view>
-   <variant name="gamelist-carousel-cover,gamelist-carousel-cover-marquee">
+   <variant name="gamelist-carousel-cover,gamelist-carousel-cover-marquee,gamelist-carousel-cover-fanart">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>cover</imageType>
@@ -301,14 +301,14 @@ https://github.com/anthonycaccese/basic-xmb-es-de
          </carousel>
       </view>
    </variant>
-   <variant name="gamelist-carousel-titlescreen,gamelist-carousel-titlescreen-marquee">
+   <variant name="gamelist-carousel-titlescreen,gamelist-carousel-titlescreen-marquee,gamelist-carousel-titlescreen-fanart">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>titlescreen</imageType>
          </carousel>
       </view>
    </variant>
-   <variant name="gamelist-carousel-physicalmedia,gamelist-carousel-physicalmedia-marquee">
+   <variant name="gamelist-carousel-physicalmedia,gamelist-carousel-physicalmedia-marquee,gamelist-carousel-physicalmedia-fanart">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <imageType>physicalmedia</imageType>
@@ -324,6 +324,13 @@ https://github.com/anthonycaccese/basic-xmb-es-de
             <metadataElement>true</metadataElement>
             <interpolation>linear</interpolation>
             <zIndex>50</zIndex>
+         </image>
+      </view>
+   </variant>
+   <variant name="gamelist-carousel-cover-fanart,gamelist-carousel-titlescreen-fanart,gamelist-carousel-physicalmedia-fanart,gamelist-carousel-marquee-fanart">
+      <view name="gamelist">
+         <image name="background-game-art">
+            <visible>false</visible>
          </image>
       </view>
    </variant>

@@ -230,12 +230,20 @@
       <label>Carousel: Boxart + Marquee</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="gamelist-carousel-cover-fanart">
+      <label>Carousel: Boxart (No Fanart)</label>
+      <selectable>true</selectable>
+   </variant>
    <variant name="gamelist-carousel-titlescreen">
       <label>Carousel: Title Screen</label>
       <selectable>true</selectable>
    </variant>
    <variant name="gamelist-carousel-titlescreen-marquee">
       <label>Carousel: Title Screen + Marquee</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="gamelist-carousel-titlescreen-fanart">
+      <label>Carousel: Title Screen (No Fanart)</label>
       <selectable>true</selectable>
    </variant>
    <variant name="gamelist-carousel-physicalmedia">
@@ -246,8 +254,16 @@
       <label>Carousel: Physical Media + Marquee</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="gamelist-carousel-physicalmedia-fanart">
+      <label>Carousel: Physical Media (No Fanart)</label>
+      <selectable>true</selectable>
+   </variant>
    <variant name="gamelist-carousel-marquee">
       <label>Carousel: Marquee</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="gamelist-carousel-marquee-fanart">
+      <label>Carousel: Marquee (No Fanart)</label>
       <selectable>true</selectable>
    </variant>
     
